@@ -1,5 +1,3 @@
-Sure, here's how you can rewrite the project description into a README.md for your GitHub repository in a first-person tone:
-
 # Artificial Intelligence Project: Reinforcement Learning
 
 Welcome to my reinforcement learning project! Here, I've implemented Q-Learning using the FrozenLake-v1 environment from OpenAI gym. 
